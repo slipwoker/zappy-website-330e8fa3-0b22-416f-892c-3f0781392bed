@@ -1,0 +1,59 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+גלה את קטלוג המשחקים החינמיים הגדול ביותר בעברית! משחקי דפדפן חינמיים לילדים ומבוגרים, ללא הורדה, ישר מהדפדפן. התחל לשחק עכשיו!
+
+### חוויית הפלטפורמה
+https://example.com/platform
+חווה ממשק גיימינג מהנה, מהיר וצבעוני שתוכנן במיוחד לשחקנים מכל הגילאים. קטלוג משחקים אונליין עשיר, חיפוש חכם וגישה מיידית לכל משחק חינמי שתרצה.
+
+### אודות
+https://example.com/about
+פוקי משחקים נולדה מתוך אהבה אמיתית לגיימינג – מי אנחנו, מה מניע אותנו ולמה בנינו את המקום הכי כיף לשחק בו משחקים אונליין בחינם לילדים ולמבוגרים כאחד.
+
+### צור קשר
+https://example.com/contact
+רוצה להציע משחק, לדווח על תקלה או סתם להגיד שלום? צוות פוקי משחקים זמין עבורך. צור קשר עכשיו ונחזור אליך במהירות – כי כל שחקן חשוב לנו.
+
+### Products
+https://example.com/products
+המוצרים שלנו - פוקי משחקים
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - פוקי משחקים
+
+### Category
+https://example.com/category/:slug
+מוצרים - פוקי משחקים
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
